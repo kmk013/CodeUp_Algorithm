@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\김민규\desktop\codeup_algorithm\1027_년월일 입력받아 형태 바꿔 출력하기\1027_년월일 입력받아 형태 바꿔 출력하기\소스.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  1027_년월일 입력받아 형태 바꿔 출력하기.vcxproj -> C:\Users\김민규\Desktop\CodeUp_Algorithm\1027_년월일 입력받아 형태 바꿔 출력하기\Debug\1027_년월일 입력받아 형태 바꿔 출력하기.exe
